@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin-top: 0%;
+    padding: 0%;
+    
+  
+}
+
+body {
+    background-color: rgb(47, 47, 117);
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.container {
+    background-color: aquamarine;
+    width: 40ch;
+    height: 30ch;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid blue;
+}
+
+.input {
+    background-color: grey;
+    height: 30px;
+    width: 250px;
+
+
+}
+
+.input-text {
+    height: 30px;
+    width: 190px;
+
+}
+
+.clear-btn,
+.add-btn {
+
+    margin-top: 3px;
+    text-decoration: none;
+
+}
+
